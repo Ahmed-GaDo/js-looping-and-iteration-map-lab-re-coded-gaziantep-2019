@@ -1,4 +1,8 @@
 // Code your solution in this file.
+<<<<<<< HEAD
+=======
+// Code your solution in this file.
+>>>>>>> 4cd8cfcb7454e7e01cb895b3f61209fa3a7e0717
 function lowerCaseDrivers (list){
 
     return list.map(function(driver) {
